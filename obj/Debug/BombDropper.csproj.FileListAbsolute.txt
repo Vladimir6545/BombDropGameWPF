@@ -1,0 +1,14 @@
+C:\Users\Vladimir\Desktop\BombDropper\bin\Debug\BombDropper.exe
+C:\Users\Vladimir\Desktop\BombDropper\bin\Debug\BombDropper.pdb
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\Bomb.baml
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\Bomb.g.cs
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\App.g.cs
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper.g.resources
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper.exe
+C:\Users\Vladimir\Desktop\BombDropper\obj\Debug\BombDropper.pdb

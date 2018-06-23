@@ -1,0 +1,17 @@
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\bin\Debug\BombDropper.exe
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\bin\Debug\BombDropper.pdb
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\Bomb.baml
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\MainWindow.baml
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\Bomb.g.cs
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\App.g.cs
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\BombDropper_MarkupCompile.cache
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\BombDropper.g.resources
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\BombDropper.Properties.Resources.resources
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\BombDropper.exe
+C:\Users\Julia.Julia_PC\Desktop\Анимация\BombDropper\obj\x86\Debug\BombDropper.pdb
+C:\Users\Vladimir\Desktop\BombDropper\obj\x86\Debug\BombDropper.exe
+C:\Users\Vladimir\Desktop\BombDropper\obj\x86\Debug\BombDropper.pdb
